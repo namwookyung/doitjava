@@ -12,5 +12,6 @@ class Obj {
 	int add(int a, int b) {
 		return a + b + c;
 	}
+
 	int c = 10;
 }
